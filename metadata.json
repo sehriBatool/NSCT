@@ -1,0 +1,8 @@
+{
+  "name": "ExamCore — Online Assessment Portal",
+  "description": "Timed 100-question multiple-choice examination system with registration-number authentication, randomized question banks, automatic score recording, answer review, and faculty administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
